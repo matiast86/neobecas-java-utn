@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Git Task 2
 Update 2
+=======
+Git Task 2 update 1
+>>>>>>> 55902610ebe8ef213b35c922b2bc078385b250fe
